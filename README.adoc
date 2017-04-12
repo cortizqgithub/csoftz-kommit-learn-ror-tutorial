@@ -11,3 +11,10 @@ This folder contains the self-contained documentation in Asciidoctor.
 
 == app-code
 This folder contains the source code for all of the making of the tutorial.
+
+=== front-end
+This folder contains the client-side, normally a web site or Angular site.
+
+=== back-end
+This folder contains the server-side.
+For the tutorial, this is where all files are to be located.
