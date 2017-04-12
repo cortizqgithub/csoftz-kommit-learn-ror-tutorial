@@ -1,0 +1,13 @@
+= csoftz-kommit-learn-ror-tutorial :: CSoftZ Kommit Learn Ruby on Rails (RoR) Tutorial
+
+V1.0.0-Apr.12/2017
+
+Holds all of the files involved in the making of the tutorial about Ruby on Rails
+at https://www.railstutorial.org/book
+
+== docs 
+
+This folder contains the self-contained documentation in Asciidoctor.
+
+== app-code
+This folder contains the source code for all of the making of the tutorial.
