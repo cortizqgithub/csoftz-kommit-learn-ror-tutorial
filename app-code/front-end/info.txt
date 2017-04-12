@@ -1,0 +1,2 @@
+Holds the files for a client side app.
+Not used for the moment being.
