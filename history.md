@@ -1,7 +1,10 @@
 File:     history.md
 Author:   Carlos Adolfo Ortiz Q
 Date:     Apr.12/2017
-Modified: Apr.12/2017
+Modified: Apr.16/2017
+
+Apr.16/2017 V1.0.2
+- Completes the second chapter of tutorial.
 
 Apr.12/2017 V1.0.1
 - Completes the first chapter of tutorial.
