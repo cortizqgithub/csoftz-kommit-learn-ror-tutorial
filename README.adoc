@@ -18,3 +18,14 @@ This folder contains the client-side, normally a web site or Angular site.
 === back-end
 This folder contains the server-side.
 For the tutorial, this is where all files are to be located.
+
+== Branches
+The repository will preserve a bunch of branches to help in discovering the code that 
+was developed for each chapter.
+
+The branches are as follows:
+
+* *master:* Holds the production code or the final code for repository.
+* *develop:* Holds all of the changes to repository that are not ready for production.
+* *feature/learn-ror-ch1:* The steps needed for chapter 1 of the book.
+* *feature/learn-ror-ch2:* The steps needed for chapter 2 of the book.
