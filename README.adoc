@@ -1,9 +1,11 @@
 = csoftz-kommit-learn-ror-tutorial :: CSoftZ Kommit Learn Ruby on Rails (RoR) Tutorial
 
-V1.0.2-Apr.16/2017
+V1.0.3-Apr.18/2017
 
 Holds all of the files involved in the making of the tutorial about Ruby on Rails
 at https://www.railstutorial.org/book
+
+A bitbucket repository is found here https://bitbucket.org/railstutorial/sample_app_4th_ed
 
 == docs 
 
