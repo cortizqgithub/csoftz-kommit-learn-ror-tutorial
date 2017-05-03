@@ -9,4 +9,7 @@ Rails.application.routes.draw do
 
   # Dispatched by UsersController
   get '/signup', to: 'users#new'
+
+  # Users routes
+  resources :users
 end
