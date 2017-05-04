@@ -15,4 +15,9 @@ Rails.application.routes.draw do
 
   # Users routes (REST API for Users)
   resources :users
+
+  # Dispatched by SessionsController
+  get    '/login',   to: 'sessions#new'
+  post   '/login',   to: 'sessions#create'
+  delete '/logout',  to: 'sessions#destroy'
 end
