@@ -1,7 +1,10 @@
 File:     history.md
 Author:   Carlos Adolfo Ortiz Q
 Date:     Apr.12/2017
-Modified: Apr.18/2017
+Modified: May.09/2017
+
+May.09/2017 V1.0.4
+- All the code contained up to this point presents the indications from chapter 4 to 8.
 
 Apr.18/2017 V1.0.3
 - Completes the third chapter of tutorial.
