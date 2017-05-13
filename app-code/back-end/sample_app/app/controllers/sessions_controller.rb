@@ -8,6 +8,7 @@ class SessionsController < ApplicationController
       # Log the user in and redirect to the user's show page.
       remember user
       log_in user
+      params[:session][:remember_me] == '1' ? remember(user) : forget(user)
       redirect_to user # can also be written as redirect_to user_url(user)
     else
       # Create an error message.
